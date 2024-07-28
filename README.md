@@ -8,18 +8,14 @@
 En Dev Logic, transformamos tus ideas en realidad con soluciones digitales innovadoras y efectivas. Nos especializamos en ofrecer un espectro completo de servicios que abordan todas tus necesidades tecnológicas y creativas, garantizando el crecimiento y éxito de tu negocio.
 
 ☄️<b>Nuestros Servicios</b><br>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">Desarrollo de Software:
-
-Landing Pages:
+<img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Desarrollo de Software:
+<b>Landing Pages:</b>
 Captura la atención de tus visitantes con páginas de aterrizaje optimizadas para la conversión, diseñadas para maximizar el impacto desde el primer clic.
-
-Páginas Web:
+<b>Páginas Web:</b>
 Creamos sitios web modernos y funcionales que reflejan la esencia de tu marca, ofreciendo una experiencia de usuario impecable y una navegación intuitiva.
-
-E-commerce:
+<b>E-commerce:</b>
 Desarrollamos tiendas online seguras y eficientes que facilitan el proceso de compra para tus clientes, aumentando tus ventas y fidelizando a tus usuarios.
-
-Software a la Medida:
+<b>Software a la Medida:</b>
 Soluciones personalizadas que se adaptan a las necesidades específicas de tu negocio, garantizando un rendimiento óptimo y una integración perfecta con tus procesos.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
