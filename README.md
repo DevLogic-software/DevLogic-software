@@ -7,7 +7,7 @@
 💡 ¡Descubre la Excelencia Digital con Dev Logic!
 En Dev Logic, transformamos tus ideas en realidad con soluciones digitales innovadoras y efectivas. Nos especializamos en ofrecer un espectro completo de servicios que abordan todas tus necesidades tecnológicas y creativas, garantizando el crecimiento y éxito de tu negocio.
 
-<center><b><h2>Nuestros Servicios</h2></b><br></center>
+☄️<b>Nuestros Servicios</b><br>
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Desarrollo de Software:<br>
 <b>Landing Pages:</b><br>
 Captura la atención de tus visitantes con páginas de aterrizaje optimizadas para la conversión, diseñadas para maximizar el impacto desde el primer clic.<br>
