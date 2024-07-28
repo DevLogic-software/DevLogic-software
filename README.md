@@ -49,7 +49,7 @@ Potencia tu presencia en línea con campañas publicitarias estratégicas en Goo
 <b>Diseño Gráfico:</b><br>
 Impacta a tu audiencia con diseños visuales atractivos y profesionales. Desde la creación de logotipos hasta materiales de marketing, nuestro equipo de diseño gráfico asegura que tu marca se destaque en el mercado.<br>
 
-## ¿Por Qué Elegir Dev Logic?:<br>
+## ¿Por Qué Elegir Dev Logic?<br>
 <b>Innovación Constante:</b><br>
 Utilizamos las últimas tecnologías y metodologías de desarrollo para asegurar que tus proyectos sean modernos, eficientes y escalables.<br>
 
