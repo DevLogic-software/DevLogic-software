@@ -8,7 +8,7 @@
 En Dev Logic, transformamos tus ideas en realidad con soluciones digitales innovadoras y efectivas. Nos especializamos en ofrecer un espectro completo de servicios que abordan todas tus necesidades tecnológicas y creativas, garantizando el crecimiento y éxito de tu negocio.
 
 ☄️<b>Nuestros Servicios</b><br>
-<img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Desarrollo de Software:<br>
+## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Desarrollo de Software:<br>
 <b>Landing Pages:</b><br>
 Captura la atención de tus visitantes con páginas de aterrizaje optimizadas para la conversión, diseñadas para maximizar el impacto desde el primer clic.<br>
 <b>Páginas Web:</b><br>
@@ -45,14 +45,6 @@ Soluciones personalizadas que se adaptan a las necesidades específicas de tu ne
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
